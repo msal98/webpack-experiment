@@ -4,7 +4,7 @@
   "description": "Learning how to use webpack with ReactJS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack ./index.js bundle.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/msal98/webpack-experiment/issues"
   },
-  "homepage": "https://github.com/msal98/webpack-experiment#readme"
+  "homepage": "https://github.com/msal98/webpack-experiment#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
 }
