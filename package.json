@@ -1,0 +1,19 @@
+{
+  "name": "webpack-experiment",
+  "version": "0.0.0",
+  "description": "Learning how to use webpack with ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msal98/webpack-experiment.git"
+  },
+  "author": "Matthew Salvatore <msal98@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msal98/webpack-experiment/issues"
+  },
+  "homepage": "https://github.com/msal98/webpack-experiment#readme"
+}
