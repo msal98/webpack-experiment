@@ -4,7 +4,7 @@
   "description": "Learning how to use webpack with ReactJS",
   "main": "index.js",
   "scripts": {
-    "start": "webpack ./index.js bundle.js"
+    "start": "webpack-dev-server ./index.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/msal98/webpack-experiment#readme",
   "devDependencies": {
-    "webpack": "^1.13.2"
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.0"
   }
 }
